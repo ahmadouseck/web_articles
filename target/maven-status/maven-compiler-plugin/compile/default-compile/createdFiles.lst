@@ -1,0 +1,12 @@
+istia\st\articles\tests\domain\JunitModeleDomainArticles.class
+istia\st\articles\dao\Article.class
+istia\st\articles\dao\ArticlesDaoSqlMap.class
+istia\st\articles\dao\IArticlesDao.class
+istia\st\articles\exception\UncheckedAccessArticlesException.class
+istia\st\articles\tests\dao\JunitModeleDaoArticles.class
+istia\st\articles\domain\Panier.class
+istia\st\articles\domain\AchatsArticles.class
+istia\st\articles\web\WebArticles.class
+istia\st\articles\domain\Achat.class
+istia\st\articles\tests\ThreadMajStock.class
+istia\st\articles\domain\IArticlesDomain.class
